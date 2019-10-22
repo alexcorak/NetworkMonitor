@@ -1,0 +1,7 @@
+public class PacketCapture
+{
+	public static void main(String[] args) 
+	{
+		Sniffer sniff = new Sniffer();
+	}
+}
